@@ -2,3 +2,4 @@
 
 Esta é uma segunda linha que eu escrevo no nvim. 
 
+new line
